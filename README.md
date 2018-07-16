@@ -4,6 +4,7 @@
 [![Build Status](https://travis-ci.org/gboeing/osmnx.svg?branch=master)](https://travis-ci.org/gboeing/osmnx)
 [![Coverage Status](https://coveralls.io/repos/github/gboeing/osmnx/badge.svg?branch=master)](https://coveralls.io/github/gboeing/osmnx?branch=master)
 [![Code Health](https://landscape.io/github/gboeing/osmnx/master/landscape.svg?style=flat)](https://landscape.io/github/gboeing/osmnx/master)
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/jaakla/osmnx/master)
 
 
 # OSMnx
